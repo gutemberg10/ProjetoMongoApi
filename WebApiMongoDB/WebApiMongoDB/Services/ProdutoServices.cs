@@ -1,5 +1,7 @@
-﻿using Microsoft.Extensions.Options;
+﻿using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Options;
 using MongoDB.Driver;
+using System.Collections.Generic;
 using WebApiMongoDB.Models;
 
 namespace WebApiMongoDB.Services
@@ -22,5 +24,15 @@ namespace WebApiMongoDB.Services
         public async Task CreateAsync(Produto produto) => await _produtosCollection.InsertOneAsync(produto);
         public async Task UpdateAsync(string id, Produto produto) => await _produtosCollection.ReplaceOneAsync(x => x.Id == id, produto);
         public async Task RemoveAsync(string id) => await _produtosCollection.DeleteOneAsync(x => x.Id == id);
+
+        public async Task<bool> ProdutoExiste(Produto produto)
+        {
+            var result = await _produtosCollection.Find(x => x.Codigo == produto.Codigo).ToListAsync();
+            if (result.Count > 0)
+            {
+                return true;
+            }
+            return false;
+        }
     }
 }

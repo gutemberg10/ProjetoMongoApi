@@ -41,3 +41,13 @@ C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\obj\De
 C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\obj\Debug\net6.0\WebApiMongoDB.pdb
 C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\obj\Debug\net6.0\WebApiMongoDB.genruntimeconfig.cache
 C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\obj\Debug\net6.0\ref\WebApiMongoDB.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\SQUADRA\source\repos\ProjetoMongoApi\WebApiMongoDB\WebApiMongoDB\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
